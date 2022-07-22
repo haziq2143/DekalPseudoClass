@@ -1,0 +1,19 @@
+body {
+  background-image: url(smk1.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+li a {
+  color: red;
+}
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: yellow;
+}
+
+a:visited {
+  color: aqua;
+}
